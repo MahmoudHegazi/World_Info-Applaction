@@ -1,6 +1,6 @@
 # World_Info-Applaction
 
-<img src=''>
+<img src='MyAPP.JPG' alt='applaction image'>
 
 1. Full responsive 
 2. HTML, CSS, JavaScript, and Wikipedia API, HTML DOM, AJAX request, 
