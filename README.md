@@ -1,6 +1,7 @@
 # World_Info-Applaction
 
 <img src=''>
+
 ## Full responsive 
 ## HTML, CSS, JavaScript, and Wikipedia API, HTML DOM, AJAX request, 
 ## this application used to get info about all countries and their flags 
